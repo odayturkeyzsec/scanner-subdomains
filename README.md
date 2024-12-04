@@ -1,4 +1,4 @@
-# Scanner Subdonains Accuration
+# Scanner Subdomain Accuration
 
  Scanner Subdonains Accuration is a subdomain enumeration tool that combines passive and active discovery techniques, leveraging public APIs, search engines, and brute-force resolution to uncover hidden subdomains.
 
