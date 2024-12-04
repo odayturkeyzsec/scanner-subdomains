@@ -5,13 +5,34 @@
 Contact Me : https://t.me/odayturkeyzsec
 
 ![image](https://github.com/user-attachments/assets/7ba7a925-a4bb-4f88-bbc8-83f0b19546c4)
+```
+```
+## Filtering SubDomain
+It has been filtered, if you find this subdomain, it will not be included in good.txt
 
+subdomains_to_remove = [
+    "cpanel",
+    "webmail",
+    "webdisk",
+    "mail",
+    "cpcalendars",
+    "cpcontacts",
+    "www.webmail",
+    "ns",
+    "ns1"
+]
 
+```
+```
 ## Requirements
-- Python 3.10.2 
+- Python 3.10.2
+```
+```
 ## Supported Os
 - Linuxer
 - Windows
+```
+```
 ## Get start with
 ```
 $ pip install requests
@@ -23,8 +44,10 @@ $ python subdo.py
 ## Footprints Notes
 - By using this tool, you agree that you are using it for educational purposes only and that you will not use it for any illegal activity. You also agree to bear all risks associated with the use of this tool. I will not be responsible for direct or indirect damage caused by the use of this tool. Don't
 ```
+```
 ## Author
 - Odayturkeyzsec
+```
 ```
 ## Contacts
 ```
